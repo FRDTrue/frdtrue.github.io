@@ -101,5 +101,5 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:  type: git  repository: git@github.com:FRDTrue/frdtrue.github.io.git  branch: main
+deploy:
   type: ''
